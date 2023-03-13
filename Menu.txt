@@ -1,0 +1,22 @@
+--- Pizza Cesitleri ve Kodlari :
+1: Klasik Pizza
+2: Margarita Pizza
+3: Turk Pizza
+4: Dominos Pizza
+5: Vegan Pizza
+6: Akdeniz Pizza
+
+-- Pizza Boyutlari :
+01: Buyuk Boy
+02: Orta Boy
+03: Kucuk Boy
+
+--- Ek Malzemeler ve Kodlari :
+11: Zeytinli
+12: Mantarli
+13: Keci Peynirli
+14: Etli
+15: Soganli
+16: Misirli
+17: Sosisli
+18: Yesil Biberli
